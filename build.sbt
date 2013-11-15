@@ -28,4 +28,8 @@ libraryDependencies ++= {
   )
 }
 
+libraryDependencies += "com.typesafe" %% "scalalogging-slf4j" % "1.0.1"
+
+libraryDependencies += "org.slf4j" % "slf4j-api" % "1.7.2"
+
 seq(Revolver.settings: _*)
