@@ -1,6 +1,6 @@
 ## [spray](http://spray.io/) template project compatible with Heroku
 
-This template is built on top the elegant template from https://github.com/matanster/spray-template.
+This template is built on top the elegant template from https://github.com/spray/spray-template.
 
 Follow these steps to get started:
 
