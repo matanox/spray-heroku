@@ -34,6 +34,7 @@ local.properties
 /src/main/resources/rebel.xml
 # External tool builders
 .externalToolBuilders/
+.cache
 
 #############################################
 # sbt specific (from Github recommendation)
